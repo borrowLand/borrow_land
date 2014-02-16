@@ -1,0 +1,13 @@
+<?
+	unset($_SESSION["User_ID"]);
+	unset($_SESSION["User_ProfOnOff"]);
+	unset($_SESSION["User_Recht_Ausleihe"]);
+	unset($_SESSION["User_Recht_Ausgabeber"]);
+	unset($_SESSION["User_Recht_Bestaet"]);
+	unset($_SESSION["User_Recht_Dauerleih"]);
+	unset($_SESSION["User_Recht_Admin"]);
+	unset($_SESSION["User_Dat_RegSelbst"]);
+	unset($_SESSION["User_Dat_RegBestaet"]);
+	unset($_SESSION["User_Dat_lastlog"]);
+	unset($_SESSION["User_WK"]);
+?>
