@@ -189,7 +189,7 @@ BORROW LAND wurde als open source Software (Lizenz: GPL Version 3) vom Urheber R
 
 <h4>Versionsinformation:</h4>
 <br>
-Version 1.0.1.7<br>
+Version 1.1<br>
  <a href="http://www.ausleihsoftware.de" target="blank"><u>Projektübersicht</u></a>
 
 <br><br><br><br>
